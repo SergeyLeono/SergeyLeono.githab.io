@@ -1,0 +1,66 @@
+body {
+    background: url(../see.jpg.jpg);
+/*background-size:cover;*/
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(228, 213, 213); 
+}
+
+h6 {
+    border: 2px rgb(240, 16, 16) solid;
+    display: inline;
+}
+
+a {
+    color: gold;
+}
+
+h4 {
+    font-family: Cambria, Cochin, Georgia;
+    color: rgb(240, 238, 235);
+}
+
+h6 {
+    color: rgb(23, 212, 23);
+}
+
+center {
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkred;
+}
+
+p {
+    color: rgb(9, 1, 15);
+}
+
+form {
+    font-size: 13px;
+    color: rgb(17, 17, 16);
+}
+
+/* id селекторы*/
+#menu {
+    color: rgb(22, 21, 21);
+    font-size: 17px;
+}
+
+.menu {
+    color: rgb(20, 19, 19);
+    font-size: 18px;
+}
+
+/*селекторы классов*/
+.sale {
+    color: chartreuse;
+}
+
+p {
+    margin: 20px;
+}
+
+form {
+    margin: 20px;
+}

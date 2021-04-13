@@ -1,0 +1,55 @@
+html, body, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    max-width: 1030px;
+   margin: 0 auto;
+   height: inherit;
+}
+
+.header {
+background: rgb(71, 68, 68);
+height: 150px;
+color: rgb(252, 251, 249);
+line-height: 40px;
+}
+  
+.menu {
+background: rgb(148, 146, 146);
+height: 55px;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+.menu li u {
+    color: inherit;
+    line-height: 50px;
+    text-decoration: none;
+}
+
+.content {
+background: rgb(8, 8, 8);
+height: 500px;
+color: rgb(252, 251, 249);
+padding: 30px;
+}
+
+.content img {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+.footer {
+background: rgb(71, 68, 68);
+height: 55px;
+color: rgb(252, 251, 249);
+line-height: 50px;
+}
